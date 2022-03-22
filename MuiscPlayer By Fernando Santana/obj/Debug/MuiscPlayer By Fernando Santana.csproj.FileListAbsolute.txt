@@ -1,0 +1,27 @@
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\bin\Debug\MuiscPlayer By Fernando Santana.exe.config
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\bin\Debug\MuiscPlayer By Fernando Santana.exe
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\bin\Debug\MuiscPlayer By Fernando Santana.pdb
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\bin\Debug\taglib-sharp.dll
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\Interop.WMPLib.dll
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csproj.ResolveComReference.cache
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer_By_Fernando_Santana.Form1.resources
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer_By_Fernando_Santana.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.exe
+C:\Users\ferna\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.pdb
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\bin\Debug\MuiscPlayer By Fernando Santana.exe.config
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\bin\Debug\MuiscPlayer By Fernando Santana.exe
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\bin\Debug\MuiscPlayer By Fernando Santana.pdb
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csprojAssemblyReference.cache
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\Interop.WMPLib.dll
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csproj.ResolveComReference.cache
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer_By_Fernando_Santana.Form1.resources
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer_By_Fernando_Santana.Properties.Resources.resources
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csproj.GenerateResource.cache
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csproj.CoreCompileInputs.cache
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.csproj.CopyComplete
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.exe
+C:\Users\2018203120\OneDrive\Visual Studio\C# - Terceiro Periodo\MuiscPlayer By Fernando Santana\MuiscPlayer By Fernando Santana\obj\Debug\MuiscPlayer By Fernando Santana.pdb
